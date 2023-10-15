@@ -1,0 +1,26 @@
+metadata_version: 1
+name: 'On the MIMO Capacity with Joint Sum and Per-antenna Power Constraints: A New
+  Efficient Numerical Method'
+description: |-
+  Simulation code for the following paper:
+
+  Thuy M. Pham, Ronan Farrell, Holger Claussen, Mark F. Flanagan, and Le-Nam Tran, "On the MIMO Capacity with Joint Sum and Per-antenna Power Constraints: A New Efficient Numerical Method,"  IEEE Trans. Veh. Technol., vol. 71, no. 9, pp. 10179-10184, Sep. 2022.
+authors:
+- name: Thuy M. Pham
+  affiliations:
+  - name: Maynooth University
+- name: Ronan Farrell
+  affiliations:
+  - name: Maynooth University
+- name: Holger Claussen
+  affiliations:
+  - name: Tyndall National Institute,
+- name: Mark F. Flanagan
+  affiliations:
+  - name: University College Dublin
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
